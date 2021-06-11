@@ -4,3 +4,5 @@ master
 develop
 
 issue#1
+issue#2
+

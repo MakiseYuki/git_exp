@@ -9,3 +9,6 @@ issue#3
 
 feature#1
 {Feature#1}
+
+feature#2
+{second feature}
